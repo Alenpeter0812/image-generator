@@ -1,0 +1,6 @@
+Flask
+pillow
+requests
+beautifulsoup4
+pandas
+openpyxl
